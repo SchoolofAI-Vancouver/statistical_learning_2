@@ -16,6 +16,8 @@ It is recommended that you use either [Google Colab](https://colab.research.goog
 
 [Statistical Learning Part 2](https://docs.google.com/presentation/d/1hdb-CT2LkbaZJHRNhsmYLsFJXHL7DKF5Pvq61j6o_sA/edit?usp=sharing)
 
+[Introduction to Data Science Tools](http://nbviewer.jupyter.org/github/johannesgiorgis/school_of_ai_vancouver/blob/master/intro_to_data_science_tools/introduction_to_data_science_tools_01.ipynb)
+
 ## Resources
 
 The meetup covers Chapter 3 and 4 from the book, *An Introduction to Statistical Learning*. The book can be downloaded [here](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf), but has been added to this repo, [here](https://github.com/SchoolofAI-Vancouver/statistical_learning_1/blob/master/docs/An%20Introduction%20to%20Statistical%20Learning%20-%20Gareth%20James.pdf), for convenience.
@@ -26,28 +28,27 @@ The book gives R application code snippets. However, we will be working in Pytho
 
 **Due Date:** Sunday, 4 November @ midnight (PST)
 
-**Challenge:** Explore a dataset of your choice and document your most interesting findings. Use the Python exploration functions discussed in the meetup (e.g. the summarizing and visualizing functions).
-
-*Check out the **Applied** section under **2.4 Exercises** in **An Introduction to Statistical Learning** for inspiration.*
+**Challenge:** Build a linear regression or classification model of your choice! Use the techniques of the covered chapters to validate your model accuracy. Check out the book exercises for inspiration (Python code snippets for [Chapter 3](http://nbviewer.jupyter.org/github/JWarmenhoven/ISL-python/blob/master/Notebooks/Chapter%203.ipynb) and [Chapter 4](http://nbviewer.jupyter.org/github/JWarmenhoven/ISL-python/blob/master/Notebooks/Chapter%204.ipynb) exercises).
 
 **Everyone is encouraged to participate!**
 
 The winning submission should ideally contain:
 
-* interesting, well-motivated, findings
-* documentation explaining your exploration
+* an interesting model application
+* a reasonably accurate model
+* documentation explaining your process
 
 To submit, post your submission's repository link on the `# coding_challenge` Slack channel (on the Vancouver School of AI workspace) before the due date.
 
-## Content Authors
-
-The core content was created by the authors of *An Introduction to Statistical Learning*.
-
-Chapters 3 and 4, the focus of this meetup, has been summarised by:
+## Meetup Contributors
 
 [Akshi Chaudhary](https://github.com/akshi8)
 
+[Johannes Giorgis](https://github.com/johannesgiorgis)
+
 [Johannes Harmse](https://github.com/johannesharmse)
+
+[Peter Lin](https://github.com/peter0083)
 
 [Xinbin Huang](https://github.com/xinbinhuang)
 
