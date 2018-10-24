@@ -16,7 +16,7 @@ It is recommended that you use either [Google Colab](https://colab.research.goog
 
 [Statistical Learning Part 2](https://docs.google.com/presentation/d/1hdb-CT2LkbaZJHRNhsmYLsFJXHL7DKF5Pvq61j6o_sA/edit?usp=sharing)
 
-[Introduction to Data Science Tools](https://github.com/johannesgiorgis/school_of_ai_vancouver)
+[Introduction to Data Science Tools](http://nbviewer.jupyter.org/github/johannesgiorgis/school_of_ai_vancouver/blob/master/intro_to_data_science_tools/01_introduction_to_conda_and_jupyter_notebooks.ipynb)
 
 ## Resources
 
